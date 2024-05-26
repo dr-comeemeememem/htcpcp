@@ -3,6 +3,7 @@
 A way to control, monitor, and diagnose coffee pots.
 
 ## rationale and scope
+https://www.rfc-editor.org/rfc/rfc2324.html   
 There is coffee all over the world. Increasingly, in a world in which   
    computing is ubiquitous, the computists want to make coffee. Coffee   
    brewing is an art, but the distributed intelligence of the web-   
