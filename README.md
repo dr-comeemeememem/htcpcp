@@ -1,6 +1,6 @@
 # htcpcp
 ## abstract
-A way to controll, monitor, and diagnose coffee pots.
+A way to control, monitor, and diagnose coffee pots.
 
 ## rationale and scope
 There is coffee all over the world. Increasingly, in a world in which   
